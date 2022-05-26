@@ -1,4 +1,13 @@
 ---
+title: Supercontinuum generation of two time-reversed shapes of Airy pulses in
+  double zero dispersion medium
+publication_types:
+  - "1"
+authors:
+  - Shuoyan Liu
+  - Guohao Xiong
+  - Muyan Yang
+publication_short: ICWCSG 2021
 abstract: This paper uses the split-step Fourier method to study the dynamic
   transmission of positive and negative Airy pulses, which are different with
   time, in a media with two closely spaced zero-dispersion wavelengths. The
@@ -10,37 +19,30 @@ abstract: This paper uses the split-step Fourier method to study the dynamic
   supercontinuum and negative Airy pulse can acquire a flatter one. This paper
   is important on how to choose suitable initial parameters of inputting pulse
   to optimize supercontinuum.
-slides: example
-url_pdf: ""
-publication_types:
-  - "1"
-authors:
-  - Shuoyan Liu
-  - Guohao Xiong and Muyan Yang
-author_notes:
-  - Equal contribution
-  - Equal contribution
-  - Equal contribution
-publication: "2021 International Conference on Wireless Communications and Smart Grid "
-summary: ""
-url_dataset: ""
-url_project: ""
-publication_short: ICWCSG
-url_source: ""
-url_video: ""
-title: Supercontinuum generation of two time-reversed shapes of Airy pulses in
-  double zero dispersion medium
-doi: ""
+draft: true
 featured: true
 tags: []
-projects:
-  - example
+slides: example
+url_pdf: ""
 image:
   caption: Temporal and spectral evolution of the positive Airy pulse for selected
     propagation distances.
   focal_point: SMART
   preview_only: false
   filename: liu2-p5-liu-large.gif
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes:
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
+doi: ""
+publication: "2021 International Conference on Wireless Communications and Smart Grid "
+projects:
+  - example
 date: 2021-08-11T16:58:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
