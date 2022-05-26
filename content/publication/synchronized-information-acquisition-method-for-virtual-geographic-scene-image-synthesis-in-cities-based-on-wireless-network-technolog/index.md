@@ -1,6 +1,6 @@
 ---
 title: Synchronized information acquisition method for virtual geographic scene
-  image synthesis in cities based on wireless network technolog
+  image synthesis in cities based on wireless network technology
 publication_types:
   - "2"
 authors:
