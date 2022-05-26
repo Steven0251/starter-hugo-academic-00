@@ -1,6 +1,6 @@
 ---
 title: Shuoyan Liu
-role: MEng Student of National University of Singapore
+role: MEng Student of Materials Science and Engineering
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -26,20 +26,17 @@ social:
     display:
       header: true
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: National University of Singapore
+    url: https://www.nus.edu.sg/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: MEng in Materials Science and Engineering
+      institution: National University of Singapore
+      year: ""
+    - course: BEng in Electronic Information Engineering
+      institution: Tianjin University
+      year: 2021
+email: liushuoyan025@gmail.com
 superuser: true
 highlight_name: true
 ---
