@@ -29,7 +29,7 @@ image:
     propagation distances.
   focal_point: SMART
   preview_only: false
-  filename: liu2-p5-liu-large.gif
+  filename: featured.jpg.gif
 summary: ""
 url_dataset: ""
 url_project: ""
