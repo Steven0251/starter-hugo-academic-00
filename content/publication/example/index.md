@@ -36,11 +36,12 @@ tags: []
 projects:
   - example
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-  focal_point: ""
+  caption: Temporal and spectral evolution of the positive Airy pulse for selected
+    propagation distances.
+  focal_point: SMART
   preview_only: false
   filename: liu2-p5-liu-large.gif
-date: 2013-07-01T00:00:00Z
+date: 2021-08-11T16:58:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
