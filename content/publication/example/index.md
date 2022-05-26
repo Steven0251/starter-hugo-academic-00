@@ -19,7 +19,7 @@ abstract: This paper uses the split-step Fourier method to study the dynamic
   supercontinuum and negative Airy pulse can acquire a flatter one. This paper
   is important on how to choose suitable initial parameters of inputting pulse
   to optimize supercontinuum.
-draft: false
+draft: true
 featured: true
 tags: []
 slides: example
