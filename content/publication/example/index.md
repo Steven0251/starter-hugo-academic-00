@@ -20,7 +20,7 @@ abstract: This paper uses the split-step Fourier method to study the dynamic
   is important on how to choose suitable initial parameters of inputting pulse
   to optimize supercontinuum.
 draft: true
-featured: false
+featured: true
 tags: []
 slides: example
 url_pdf: ""
