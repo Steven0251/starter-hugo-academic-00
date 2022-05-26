@@ -22,9 +22,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: "2021 International Conference on Wireless Communications and Smart Grid "
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ICWCSG
